@@ -1,6 +1,6 @@
 - 👋 Hi, we're @olivewebsoftware
 - 👀 We create software in VB.NET
-- 🌱 GitHub sucks
+- 🌱 OliveWeb is named after one of my cats. (Olive)
 - 💞️ We created oliveweb all the other olivewebs you see online are fake
 - 📫 kk.online@mail.com (support email)
 
